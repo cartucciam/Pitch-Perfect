@@ -76,7 +76,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.59377996386538667" green="0.78866133957047457" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.84681087114154519" green="1" blue="0.67351447538377118" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="r96-Z1-j8R" firstAttribute="centerY" secondItem="kh9-bI-dsS" secondAttribute="centerY" id="2wh-Jw-4yP"/>
                             <constraint firstItem="r96-Z1-j8R" firstAttribute="centerX" secondItem="Edv-AF-e6x" secondAttribute="centerX" id="eh2-4C-1WU"/>
@@ -186,7 +186,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.59377996389999999" green="0.78866133959999996" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.84681087109999997" green="1" blue="0.67351447539999998" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="UmE-vO-WXu" firstAttribute="leading" secondItem="gRE-fr-xhb" secondAttribute="leadingMargin" id="1Nk-Fh-oHo"/>
                             <constraint firstItem="Z3S-nM-7Gh" firstAttribute="trailing" secondItem="gRE-fr-xhb" secondAttribute="trailingMargin" id="HZs-8T-jpi"/>
